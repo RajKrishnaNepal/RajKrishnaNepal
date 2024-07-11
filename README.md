@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning optimization techniques.
 - 💞️ I’m looking to collaborate on research projects.
 - 📫 How to reach me ?? Mail me at krishnanepalraj1@gmail.com
+- Check out gist at: https://gist.github.com/RajKrishnaNepal/ 
 
 <!---
 RajKrishnaNepal/RajKrishnaNepal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
